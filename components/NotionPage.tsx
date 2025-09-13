@@ -31,7 +31,7 @@ import { PageHead } from './PageHead'
 import styles from './styles.module.css'
 
 // -----------------------------------------------------------------------------
-// dynamic imports for optional components
+// dynamic imports for optional components 
 // -----------------------------------------------------------------------------
 
 const Code = dynamic(() =>
