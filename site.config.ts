@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'xiaoyi's blog',
+  name: 'xiaoyi_blog',
   domain: 'www.stat200.net',
   author: 'Xiaoyi Wang', 
 
