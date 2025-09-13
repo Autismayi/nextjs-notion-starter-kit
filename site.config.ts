@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'xiaoyi's blog',
   domain: 'www.stat200.net',
-  author: 'Xiaoyi Wang',
+  author: 'Xiaoyi Wang', 
 
   // open graph metadata (optional)
   //description: 'Example Next.js Notion Starter Kit Site',
